@@ -4,7 +4,7 @@
   
 ## 🚀 Projects
 
-### 1. **AI-based Student SWOC Analysis Project**
+### 1. **AI-based Student SWOC Analysis**
    - **Goal**: To help students identify their strengths, weaknesses, opportunities, and challenges (SWOC) using AI models.
    - **Features**:
      - Analyzes student responses to provide personalized feedback.
