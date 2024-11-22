@@ -11,7 +11,6 @@
      - Utilizes machine learning models to predict SWOC for unseen data.
      - Data collected through a Google Form and processed with a hybrid rule-based and classification system.
    - **Tech Stack**: Python, XGBoost, Multi-hot Encoding
-   - **Sponsor**: Erfindin Technologies
 
 ### 2. **Travel Blog Website (PHP)**
    - **Goal**: A dynamic travel blog website where users can submit and view travel posts with images.
