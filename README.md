@@ -12,18 +12,21 @@
      - Data collected through a Google Form and processed with a hybrid rule-based and classification system.
    - **Tech Stack**: Python, XGBoost, Multi-hot Encoding
 
-### 2. **Travel Blog Website (PHP)**
-   - **Goal**: A dynamic travel blog website where users can submit and view travel posts with images.
+### 2. **Asthma Detection System**
+   - **Goal**: To detect asthma at an early stage using machine learning on a highly imbalanced dataset.
    - **Features**:
-     - User-generated content with image uploads.
-     - Data stored in JSON and displayed dynamically.
-   - **Tech Stack**: PHP, HTML, CSS, Bootstrap, JSON, MySQL
+     - Built classification models using Neural Networks, XGBoost, SVM, and Random Forest.
+     - Applied SMOTE for handling data imbalance and LASSO for feature selection.
+     - Conducted comparative analysis on learning rates and model effectiveness.
+   - **Tech Stack**: R, Machine Learning (SMOTE, LASSO, XGBoost, SVM, Random Forest)
 
-### 3. **Hotel Booking System**
+### 3. **CNN-Driven Facial Expression Detection**
    - **Goal**: A hotel booking system with features like booking confirmation, availability checks, and payment simulations.
    - **Features**:
-     - Room availability checking and booking confirmation.
-   - **Tech Stack**: PHP, MySQL, HTML, CSS 
+     - Real-time detection of complex emotions through facial expression analysis.
+     - Trained on a custom image dataset with real-time recognition capability.
+     - Implemented image preprocessing and feature extraction using OpenCV and TensorFlow.
+   - **Tech Stack**: Python, TensorFlow, OpenCV, CNN
 
 💞️ I’m looking to collaborate on AI-based projects, web development, and innovative solutions that can make a real impact on students, education, and user experience.
 
