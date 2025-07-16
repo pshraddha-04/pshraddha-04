@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Shraddha Patil!
- 👀 I'm a passionate developer with a keen interest in AI, web development, and solving real-world problems with code. <br>
+ 👀 I'm a passionate developer with a keen interest in Data, AI, Machine Learning, and solving real-world problems with code. <br>
       I love to explore new technologies and build projects that have a meaningful impact. Here's a little about what I do:
   
 ## 🚀 Projects
