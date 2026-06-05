@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hi, I'm Shraddha Patil 👋
 
 ### 🚀 Aspiring AI Engineer | Final-Year Engineering Student | Generative AI | LLMs | RAG | Python
@@ -26,11 +26,6 @@ Passionate about building intelligent systems that solve real-world problems usi
 - 🔍 Semantic Search & Vector Databases
 - ⚙️ MLOps & Production AI Systems
 
-## 🌱 Goals
-
-- Build production-ready AI applications
-- Contribute to open-source AI projects
-- Deepen expertise in LLMs and AI Agents
 
 ## 📫 Let's Connect
 
