@@ -7,9 +7,9 @@ Passionate about building intelligent systems that solve real-world problems usi
 
 ## 🛠️ Projects
 
-- 🎬 **VideoMind–Agentic YouTube Knowledge Assistant**
+- 🎬 **VideoMind–Agentic YouTube Knowledge Assistant**  
   A multi-tool AI system that enables semantic search, summarization, and knowledge visualization from YouTube videos.
-
+  
 - 📄 **Insurance Document Question Answering System**  
   A Retrieval-Augmented Generation (RAG) pipeline for answering queries from insurance documents using LLMs and vector databases.
 
