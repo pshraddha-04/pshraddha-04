@@ -7,11 +7,14 @@ Passionate about building intelligent systems that solve real-world problems usi
 
 ## 🛠️ Projects
 
+- 🎬 **VideoMind–Agentic YouTube Knowledge Assistant**
+  A multi-tool AI system that enables semantic search, summarization, and knowledge visualization from YouTube videos.
+
 - 📄 **Insurance Document Question Answering System**  
-  Built a Retrieval-Augmented Generation (RAG) pipeline for answering queries from insurance documents using LLMs and vector databases.
+  A Retrieval-Augmented Generation (RAG) pipeline for answering queries from insurance documents using LLMs and vector databases.
 
 - 📈 **Deep Learning Based Stock Price Forecasting System**  
-  Developed forecasting models using LSTM networks for stock market trend prediction.
+  Predictive analytics platform leveraging LSTM networks to predict future price trends and market behavior.
 
 - 🎯 **AI-Based Student SWOC Analysis**  
   Created a machine learning system that generates personalized Strengths, Weaknesses, Opportunities, and Challenges (SWOC) reports for students.
