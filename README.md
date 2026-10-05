@@ -1,7 +1,7 @@
 
 # Hi, I'm Shraddha Patil 👋
 
-### 🚀 Aspiring AI Engineer | Final-Year Engineering Student | Generative AI | LLMs | RAG | Python
+### 🚀 Aspiring AI Engineer | Final-Year Engineering Student | Generative AI | LLMs | RAG | Python | AWS Cloud Foundations
 
 Passionate about building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and Generative AI. I enjoy transforming data into actionable insights and developing end-to-end AI applications.
 
